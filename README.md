@@ -10,3 +10,6 @@ HOW TO:
 4 - gem install "google-api-client"
 5 - ruby calendar_task_planner.rb
 6. if you need to delete all the events: ruby clean_calendar.rb
+
+
+More info on google calendar api here: https://developers.google.com/google-apps/calendar/overview
