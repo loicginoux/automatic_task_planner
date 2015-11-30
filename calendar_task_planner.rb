@@ -10,14 +10,9 @@ require_relative 'event_manager'
 
 
 email_list = [
-"pau.varela@gmail.com",
-"paulaarbide@yahoo.es",
-"administraria@banaizbagara.eus",
-"zuzendaria@banaizbagara.eus",
-"mplaza@3kolore.com",
-"magasalati@gmail.com",
-"ad@oldtooltypes.com",
-"lginoux@gmail.com"
+ # ADD HERE A LIST OF EMAILS PARTICIPANTS EMAILS
+ # ex:
+ # "test@gmail.com", "test2@gmail.com"
 ]
 
 tasks_list = [
